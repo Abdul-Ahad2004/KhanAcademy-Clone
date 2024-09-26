@@ -1,1 +1,1 @@
-# KhanAcademy-Clone
+# AhadAcademy-Clone
